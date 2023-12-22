@@ -1,2 +1,1 @@
-bdsx basic item plugin
-Made by namacksin
+<h1>This is the default item payment system plug-in created by Namacksin.</h1>

@@ -18,4 +18,5 @@ events.serverOpen.on(() => {
 
     import("./function");
     import("./scr/command");
+    import("./scr/from");
 });
